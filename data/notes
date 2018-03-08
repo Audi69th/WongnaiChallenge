@@ -1,0 +1,9 @@
+This page contains the training dataset for this competition. The training dataset contains restaurant reviews and ratings from Wongnai. You are provided with text reviews (mostly in Thai) and ratings (there are only 5 classes ranging from 1 to 5 stars).
+
+File descriptions
+w_review_train.csv - the training set
+tes_file.csv - the test set (without ratings, only text reviews are provided)
+sample_submission.csv - a sample submission file in the correct format
+Data fields (for training set)
+first column - text review (input)
+second column - rating (label)
